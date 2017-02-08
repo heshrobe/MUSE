@@ -1,0 +1,53 @@
+{
+    "<Sort09: void sort(int[])>": [
+        {
+            "<Catalano.Math.Dissimilarities.Dissimilarity: double SokalMichener(int[],int[])>": 0.5928549400975751
+        }, 
+        {
+            "<Catalano.Math.Dissimilarities.Dissimilarity: double RogersTanimoto(int[],int[])>": 0.5928549400975751
+        }, 
+        {
+            "<Catalano.Math.Dissimilarities.Dissimilarity: double Jaccard(int[],int[])>": 0.5909446370941227
+        }, 
+        {
+            "<Catalano.Math.Dissimilarities.Dissimilarity: double Yule(int[],int[])>": 0.587843771547274
+        }, 
+        {
+            "<Catalano.Math.Dissimilarities.Dissimilarity: double Dice(int[],int[])>": 0.5851680664725569
+        }
+    ], 
+    "<Sort09: void main(java.lang.String[])>": [
+        {
+            "<Sort10: void main(java.lang.String[])>": 1.0
+        }, 
+        {
+            "<Sort07: void main(java.lang.String[])>": 1.0
+        }, 
+        {
+            "<boofcv.applet.AppletMediaManager: java.io.Reader openFile(java.lang.String)>": 0.5989064017250498
+        }, 
+        {
+            "<org.dyn4j.Version: void main(java.lang.String[])>": 0.5877693467790122
+        }, 
+        {
+            "<boofcv.applet.AppletMediaManager: java.awt.image.BufferedImage openImage(java.lang.String)>": 0.5692078730856239
+        }
+    ], 
+    "<Sort09: void swapKeys(int[],int,int)>": [
+        {
+            "<Sort10: void swapKeys(int[],int,int)>": 1.0
+        }, 
+        {
+            "<org.jbox2d.common.BufferUtils: void rotate(int[],int,int,int)>": 0.51579295374392
+        }, 
+        {
+            "<com.flowpowered.react.collision.broadphase.SweepAndPruneAlgorithm$BoxAABB: void setMax(int,int)>": 0.4674249768052726
+        }, 
+        {
+            "<com.flowpowered.react.collision.broadphase.SweepAndPruneAlgorithm$BoxAABB: void setMin(int,int)>": 0.4674249768052726
+        }, 
+        {
+            "<net.imglib2.img.basictypeaccess.array.IntArray: void setValue(int,int)>": 0.4674249768052726
+        }
+    ]
+}

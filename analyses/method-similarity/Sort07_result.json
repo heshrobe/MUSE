@@ -1,0 +1,36 @@
+{
+    "<Sort07: void sort(int[])>": [
+        {
+            "<boofcv.alg.fiducial.calib.squares.RegularClustersIntoGrids: int checkNumberOfConnections(java.util.List)>": 0.5632232906259195
+        }, 
+        {
+            "<Catalano.Math.Dissimilarities.Dissimilarity: double SokalMichener(int[],int[])>": 0.5574511570217103
+        }, 
+        {
+            "<Catalano.Math.Dissimilarities.Dissimilarity: double RogersTanimoto(int[],int[])>": 0.5574511570217103
+        }, 
+        {
+            "<Catalano.Math.Dissimilarities.Dissimilarity: double Yule(int[],int[])>": 0.5512456899924175
+        }, 
+        {
+            "<Catalano.Imaging.Filters.HueModifier: void applyInPlace(Catalano.Imaging.FastBitmap)>": 0.5498820278974871
+        }
+    ], 
+    "<Sort07: void main(java.lang.String[])>": [
+        {
+            "<Sort10: void main(java.lang.String[])>": 1.0
+        }, 
+        {
+            "<Sort09: void main(java.lang.String[])>": 1.0
+        }, 
+        {
+            "<boofcv.applet.AppletMediaManager: java.io.Reader openFile(java.lang.String)>": 0.5989064017250498
+        }, 
+        {
+            "<org.dyn4j.Version: void main(java.lang.String[])>": 0.5877693467790122
+        }, 
+        {
+            "<boofcv.applet.AppletMediaManager: java.awt.image.BufferedImage openImage(java.lang.String)>": 0.5692078730856239
+        }
+    ]
+}

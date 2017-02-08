@@ -1,0 +1,342 @@
+{
+    "<boofcv.io.jcodec.JCodecMediaManager: void <init>()>": [
+        {
+            "<net.coobird.thumbnailator.makers.ThumbnailMaker$ReadinessTracker: void <init>()>": 0.4058441558441558
+        }, 
+        {
+            "<org.dyn4j.sandbox.input.Keyboard: void <init>()>": 0.4058441558441558
+        }, 
+        {
+            "<org.dyn4j.samples.TrackingContactIds: void <init>()>": 0.36654569958895067
+        }, 
+        {
+            "<org.jbox2d.pooling.arrays.GeneratorArray: void <init>()>": 0.28551578107299025
+        }, 
+        {
+            "<org.jbox2d.pooling.arrays.IntArray: void <init>()>": 0.28551578107299025
+        }
+    ], 
+    "<boofcv.io.jcodec.ImplConvertJCodecPicture: void yuv420_to_F32(org.jcodec.common.model.Picture,boofcv.struct.image.GrayF32)>": [
+        {
+            "<org.jbox2d.common.MathUtils: int max(int,int)>": 0.3846963476518711
+        }, 
+        {
+            "<org.jbox2d.common.MathUtils: int min(int,int)>": 0.3846963476518711
+        }, 
+        {
+            "<org.jbox2d.particle.ParticleSystem: int limitCapacity(int,int)>": 0.3846963476518711
+        }, 
+        {
+            "<Catalano.Imaging.FastBitmap: int getBlue(int,int)>": 0.36876441001769916
+        }, 
+        {
+            "<org.jbox2d.particle.ParticleSystem$NewIndices: int getIndex(int)>": 0.3672945753141934
+        }
+    ], 
+    "<boofcv.io.jcodec.JCodecSimplified: boofcv.struct.image.ImageBase next()>": [
+        {
+            "<Catalano.Imaging.Tools.BlobDetection: void ShuffleColor()>": 0.21398467468885357
+        }, 
+        {
+            "<Catalano.Math.Tools: int PreviousPowerOf2(int)>": 0.20469628418893837
+        }, 
+        {
+            "<Catalano.Statistics.Kernels.Polynomial: void setDegree(int)>": 0.2043270559667063
+        }, 
+        {
+            "<Catalano.Statistics.Kernels.NormalizedPolynomial: void setDegree(int)>": 0.2043270559667063
+        }, 
+        {
+            "<Catalano.Imaging.Concurrent.Filters.FastVariance: void setRadius(int)>": 0.2043270559667063
+        }
+    ], 
+    "<boofcv.io.jcodec.UtilJCodec: void convertToBoof(org.jcodec.common.model.Picture,boofcv.struct.image.ImageBase)>": [
+        {
+            "<org.dyn4j.sandbox.utilities.RenderUtilities: void drawJoint(com.jogamp.opengl.GL2,org.dyn4j.dynamics.joint.Joint,double)>": 0.3401911169721914
+        }, 
+        {
+            "<org.dyn4j.examples.Graphics2DRenderer: void render(java.awt.Graphics2D,org.dyn4j.geometry.Shape,double,java.awt.Color)>": 0.31036669946978235
+        }, 
+        {
+            "<org.dyn4j.sandbox.utilities.RenderUtilities: void fillShape(com.jogamp.opengl.GL2,org.dyn4j.geometry.Shape)>": 0.2920855046570721
+        }, 
+        {
+            "<org.dyn4j.sandbox.utilities.RenderUtilities: void drawShape(com.jogamp.opengl.GL2,org.dyn4j.geometry.Shape,boolean)>": 0.27842276638595476
+        }, 
+        {
+            "<org.dyn4j.sandbox.dialogs.EditJointDialog: void <init>(java.awt.Window,org.dyn4j.dynamics.joint.Joint)>": 0.16556361976359119
+        }
+    ], 
+    "<boofcv.io.jcodec.ImplConvertJCodecPicture: void RGB_to_PLU8(org.jcodec.common.model.Picture,boofcv.struct.image.Planar)>": [
+        {
+            "<Catalano.Imaging.Tools.HoughLineTransformation: int getMaximumValue()>": 0.2955098646000291
+        }, 
+        {
+            "<Catalano.Imaging.Filters.HysteresisThreshold: void applyInPlace(Catalano.Imaging.FastBitmap)>": 0.2901146644324156
+        }, 
+        {
+            "<Catalano.Imaging.Filters.Convolution: void applyInPlace(Catalano.Imaging.FastBitmap)>": 0.2883010564327301
+        }, 
+        {
+            "<Catalano.Imaging.Tools.IntegralImage: int getHaarYWavelet(int,int,int)>": 0.2841267965512064
+        }, 
+        {
+            "<Catalano.Imaging.Tools.IntegralImage: int getHarrXWavelet(int,int,int)>": 0.2840107468437237
+        }
+    ], 
+    "<boofcv.io.jcodec.JCodecSimplified: boolean hasNext()>": [
+        {
+            "<net.coobird.thumbnailator.util.exif.IfdStructure: boolean isOffset()>": 0.609509295431853
+        }, 
+        {
+            "<net.smert.jreactphysics3d.collision.narrowphase.GJK.Simplex: boolean isFull()>": 0.5931372549019608
+        }, 
+        {
+            "<net.smert.jreactphysics3d.collision.narrowphase.GJK.Simplex: boolean isEmpty()>": 0.5931372549019608
+        }, 
+        {
+            "<net.smert.jreactphysics3d.engine.ProfileNodeIterator: boolean isEnd()>": 0.5931372549019608
+        }, 
+        {
+            "<Catalano.Core.Structs.DoubleArrayList: boolean isEmpty()>": 0.5931372549019608
+        }
+    ], 
+    "<boofcv.io.jcodec.JCodecSimplified: java.lang.Object getGuiImage()>": [
+        {
+            "<net.coobird.thumbnailator.builders.BufferedImageBuilder: java.awt.image.BufferedImage build()>": 0.3244344593595965
+        }, 
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage,int)>": 0.3065198647186073
+        }, 
+        {
+            "<Catalano.Imaging.Filters.Resize: void applyInPlace(Catalano.Imaging.FastBitmap)>": 0.28243349093210035
+        }, 
+        {
+            "<Catalano.Imaging.Filters.Mirror: void applyInPlace(Catalano.Imaging.FastBitmap)>": 0.2820887432671094
+        }, 
+        {
+            "<org.imgscalr.AsyncScalr: java.util.concurrent.Future crop(java.awt.image.BufferedImage,int,int,int,int,java.awt.image.BufferedImageOp[])>": 0.2779998298613659
+        }
+    ], 
+    "<boofcv.io.jcodec.JCodecMediaManager: java.io.Reader openFile(java.lang.String)>": [
+        {
+            "<org.dyn4j.sandbox.panels.FromFileConvexPolygonPanel: void actionPerformed(java.awt.event.ActionEvent)>": 0.23879904703465224
+        }, 
+        {
+            "<org.dyn4j.sandbox.panels.FromFileConvexHullPolygonPanel: void actionPerformed(java.awt.event.ActionEvent)>": 0.23448651698081052
+        }, 
+        {
+            "<net.coobird.thumbnailator.tasks.UnsupportedFormatException: void <init>(java.lang.String,java.lang.String)>": 0.2276114587983494
+        }, 
+        {
+            "<org.dyn4j.sandbox.panels.FromFileNonConvexPolygonPanel: void actionPerformed(java.awt.event.ActionEvent)>": 0.22637539196334483
+        }, 
+        {
+            "<org.jbox2d.serialization.UnsupportedObjectException: void <init>(java.lang.String,java.lang.Throwable)>": 0.22396551974223744
+        }
+    ], 
+    "<boofcv.io.jcodec.ImplConvertJCodecPicture: void yuv420_to_U8(org.jcodec.common.model.Picture,boofcv.struct.image.GrayU8)>": [
+        {
+            "<org.jbox2d.common.MathUtils: int max(int,int)>": 0.3846963476518711
+        }, 
+        {
+            "<org.jbox2d.common.MathUtils: int min(int,int)>": 0.3846963476518711
+        }, 
+        {
+            "<org.jbox2d.particle.ParticleSystem: int limitCapacity(int,int)>": 0.3846963476518711
+        }, 
+        {
+            "<Catalano.Imaging.FastBitmap: int getBlue(int,int)>": 0.36876441001769916
+        }, 
+        {
+            "<org.jbox2d.particle.ParticleSystem$NewIndices: int getIndex(int)>": 0.3672945753141934
+        }
+    ], 
+    "<boofcv.io.jcodec.ImplConvertJCodecPicture: void yuv420_to_PlRgb_F32(org.jcodec.common.model.Picture,boofcv.struct.image.Planar)>": [
+        {
+            "<Catalano.Imaging.FastBitmap: void setRed(int,int,int)>": 0.389756520070923
+        }, 
+        {
+            "<Catalano.Imaging.FastBitmap: void setGreen(int,int,int)>": 0.38861274754374375
+        }, 
+        {
+            "<Catalano.Imaging.FastBitmap: void setAlpha(int,int,int)>": 0.38861274754374375
+        }, 
+        {
+            "<Catalano.Imaging.FastBitmap: int getBlue(int,int)>": 0.38526211623458306
+        }, 
+        {
+            "<Catalano.Imaging.FastBitmap: void setRed(Catalano.Core.IntPoint,int)>": 0.3841451883139906
+        }
+    ], 
+    "<boofcv.io.jcodec.JCodecMediaManager: boofcv.io.image.SimpleImageSequence openCamera(java.lang.String,int,int,boofcv.struct.image.ImageType)>": [
+        {
+            "<org.dyn4j.examples.ExampleJOGL: void reshape(com.jogamp.opengl.GLAutoDrawable,int,int,int,int)>": 0.6304831083225222
+        }, 
+        {
+            "<net.coobird.thumbnailator.geometry.Positions$1: java.awt.Point calculate(int,int,int,int,int,int,int,int)>": 0.6162869869936854
+        }, 
+        {
+            "<Catalano.Imaging.Tools.IntegralImage: int getInternalData(int,int)>": 0.5964445962870393
+        }, 
+        {
+            "<net.coobird.thumbnailator.geometry.Coordinate: java.awt.Point calculate(int,int,int,int,int,int,int,int)>": 0.5948086448020145
+        }, 
+        {
+            "<net.coobird.thumbnailator.geometry.Positions$4: java.awt.Point calculate(int,int,int,int,int,int,int,int)>": 0.5821147356116395
+        }
+    ], 
+    "<boofcv.io.jcodec.JCodecMediaManager: java.awt.image.BufferedImage openImage(java.lang.String)>": [
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage,int)>": 0.45264548542990324
+        }, 
+        {
+            "<net.coobird.thumbnailator.filters.Transparency: java.awt.image.BufferedImage apply(java.awt.image.BufferedImage)>": 0.34415277068345795
+        }, 
+        {
+            "<net.coobird.thumbnailator.resizers.ProgressiveBilinearResizer: void resize(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3138953423491304
+        }, 
+        {
+            "<org.imgscalr.Scalr: java.awt.image.BufferedImage createOptimalImage(java.awt.image.BufferedImage,int,int)>": 0.29533544611021406
+        }, 
+        {
+            "<org.imgscalr.Scalr: java.awt.image.BufferedImage copyToOptimalImage(java.awt.image.BufferedImage)>": 0.28121869379045283
+        }
+    ], 
+    "<boofcv.io.jcodec.JCodecSimplified: int getNextHeight()>": [
+        {
+            "<org.jbox2d.common.MathUtils: int max(int,int)>": 0.3652167676687162
+        }, 
+        {
+            "<org.jbox2d.common.MathUtils: int min(int,int)>": 0.3652167676687162
+        }, 
+        {
+            "<org.jbox2d.particle.ParticleSystem: int limitCapacity(int,int)>": 0.3652167676687162
+        }, 
+        {
+            "<net.imglib2.display.ColorTable16: int get(int,int)>": 0.32170772231096606
+        }, 
+        {
+            "<com.flowpowered.react.collision.narrowphase.EPA.EdgeEPA: int getTargetVertexIndex()>": 0.3184893664460647
+        }
+    ], 
+    "<boofcv.io.jcodec.JCodecMediaManager: boofcv.io.image.SimpleImageSequence openVideo(java.lang.String,boofcv.struct.image.ImageType)>": [
+        {
+            "<org.dyn4j.sandbox.dialogs.AddNonConvexFixtureDialog: void actionPerformed(java.awt.event.ActionEvent)>": 0.23533859464017692
+        }, 
+        {
+            "<org.dyn4j.sandbox.dialogs.AddConvexHullFixtureDialog: void actionPerformed(java.awt.event.ActionEvent)>": 0.23533859464017692
+        }, 
+        {
+            "<org.dyn4j.sandbox.dialogs.AddConvexFixtureDialog: void actionPerformed(java.awt.event.ActionEvent)>": 0.23533859464017692
+        }, 
+        {
+            "<org.dyn4j.sandbox.Sandbox: void renderBody(com.jogamp.opengl.GL2,org.dyn4j.sandbox.SandboxBody)>": 0.23281578392090893
+        }, 
+        {
+            "<net.imglib2.view.TransformBuilder: void <init>(net.imglib2.Interval,net.imglib2.RandomAccessible)>": 0.23111992893835342
+        }
+    ], 
+    "<boofcv.io.jcodec.ImplConvertJCodecPicture: void yuv420_to_PlRgb_U8(org.jcodec.common.model.Picture,boofcv.struct.image.Planar)>": [
+        {
+            "<Catalano.Imaging.FastBitmap: void setRed(int,int,int)>": 0.389756520070923
+        }, 
+        {
+            "<Catalano.Imaging.FastBitmap: void setGreen(int,int,int)>": 0.38861274754374375
+        }, 
+        {
+            "<Catalano.Imaging.FastBitmap: void setAlpha(int,int,int)>": 0.38861274754374375
+        }, 
+        {
+            "<Catalano.Imaging.FastBitmap: int getBlue(int,int)>": 0.38526211623458306
+        }, 
+        {
+            "<Catalano.Imaging.FastBitmap: void setRed(Catalano.Core.IntPoint,int)>": 0.3841451883139906
+        }
+    ], 
+    "<boofcv.io.jcodec.JCodecSimplified: int getNextWidth()>": [
+        {
+            "<org.jbox2d.common.MathUtils: int max(int,int)>": 0.3652167676687162
+        }, 
+        {
+            "<org.jbox2d.common.MathUtils: int min(int,int)>": 0.3652167676687162
+        }, 
+        {
+            "<org.jbox2d.particle.ParticleSystem: int limitCapacity(int,int)>": 0.3652167676687162
+        }, 
+        {
+            "<net.imglib2.display.ColorTable16: int get(int,int)>": 0.32170772231096606
+        }, 
+        {
+            "<com.flowpowered.react.collision.narrowphase.EPA.EdgeEPA: int getTargetVertexIndex()>": 0.3184893664460647
+        }
+    ], 
+    "<boofcv.io.jcodec.JCodecVideoInterface: boofcv.io.image.SimpleImageSequence load(java.lang.String,boofcv.struct.image.ImageType)>": [
+        {
+            "<net.coobird.thumbnailator.tasks.UnsupportedFormatException: void <init>(java.lang.String,java.lang.String)>": 0.24468752709720756
+        }, 
+        {
+            "<net.coobird.thumbnailator.Thumbnails$Builder$Properties: void <init>(java.lang.String,int,java.lang.String)>": 0.2260478411606234
+        }, 
+        {
+            "<org.dyn4j.sandbox.dialogs.ExceptionDialog: void show(java.awt.Window,java.lang.String,java.lang.String,java.lang.Exception)>": 0.21366420462016747
+        }, 
+        {
+            "<net.smert.jreactphysics3d.configuration.ContactsPositionCorrectionTechnique: void <init>(java.lang.String,int)>": 0.20270889991674088
+        }, 
+        {
+            "<net.smert.jreactphysics3d.constraint.JointType: void <init>(java.lang.String,int)>": 0.20270889991674088
+        }
+    ], 
+    "<boofcv.io.jcodec.JCodecSimplified: void <init>(java.lang.String,boofcv.struct.image.ImageType)>": [
+        {
+            "<Catalano.Imaging.FastBitmap: void saveAsGIF(java.lang.String)>": 0.2521532807411093
+        }, 
+        {
+            "<Catalano.Imaging.FastBitmap: void saveAsPNG(java.lang.String)>": 0.2521532807411093
+        }, 
+        {
+            "<Catalano.Imaging.FastBitmap: void saveAsJPG(java.lang.String)>": 0.2521532807411093
+        }, 
+        {
+            "<Catalano.Imaging.FastBitmap: void saveAsBMP(java.lang.String)>": 0.2521532807411093
+        }, 
+        {
+            "<org.dyn4j.sandbox.utilities.ImageUtilities: java.awt.image.BufferedImage getImageFromClassPathSuppressExceptions(java.lang.String)>": 0.24434347648149918
+        }
+    ], 
+    "<boofcv.io.jcodec.JCodecSimplified: void setLoop(boolean)>": [
+        {
+            "<org.dyn4j.sandbox.Sandbox: void renderBody(com.jogamp.opengl.GL2,org.dyn4j.sandbox.SandboxBody)>": 0.39987430755706466
+        }, 
+        {
+            "<net.imglib2.transform.integer.SlicingTransform: boolean getComponentZero(int)>": 0.34942945940251147
+        }, 
+        {
+            "<net.imglib2.transform.integer.MixedTransform: boolean getComponentZero(int)>": 0.34942945940251147
+        }, 
+        {
+            "<net.imglib2.transform.integer.MixedTransform: boolean getComponentInversion(int)>": 0.34942945940251147
+        }, 
+        {
+            "<org.dyn4j.geometry.Circle: void <init>(boolean,double)>": 0.3310041734010916
+        }
+    ], 
+    "<boofcv.io.jcodec.JCodecSimplified: void reset()>": [
+        {
+            "<Catalano.Imaging.FastBitmap: void saveAsGIF(java.lang.String)>": 0.255882698449763
+        }, 
+        {
+            "<Catalano.Imaging.FastBitmap: void saveAsPNG(java.lang.String)>": 0.255882698449763
+        }, 
+        {
+            "<Catalano.Imaging.FastBitmap: void saveAsJPG(java.lang.String)>": 0.255882698449763
+        }, 
+        {
+            "<Catalano.Imaging.FastBitmap: void saveAsBMP(java.lang.String)>": 0.255882698449763
+        }, 
+        {
+            "<org.dyn4j.sandbox.utilities.ImageUtilities: java.awt.image.BufferedImage getImageFromClassPathSuppressExceptions(java.lang.String)>": 0.2500956268178254
+        }
+    ]
+}

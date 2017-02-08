@@ -1,0 +1,1260 @@
+{
+    "<org.imgscalr.AsyncScalr$12: java.awt.image.BufferedImage call()>": [
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage)>": 0.3392970356839851
+        }, 
+        {
+            "<boofcv.gui.feature.VisualizeRegions: java.awt.image.BufferedImage regions(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.33535944107546733
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage access$000(boofcv.gui.DemonstrationBase,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.27682729505344245
+        }, 
+        {
+            "<net.coobird.thumbnailator.tasks.io.BufferedImageSource: java.awt.image.BufferedImage read()>": 0.2603372272439597
+        }, 
+        {
+            "<boofcv.gui.binary.VisualizeBinaryData: java.awt.image.BufferedImage renderLabeled(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.2547969607118756
+        }
+    ], 
+    "<org.imgscalr.Scalr$Rotation: org.imgscalr.Scalr$Rotation valueOf(java.lang.String)>": [
+        {
+            "<net.smert.jreactphysics3d.collision.shapes.CollisionShapeType: net.smert.jreactphysics3d.collision.shapes.CollisionShapeType valueOf(java.lang.String)>": 0.260989010989011
+        }, 
+        {
+            "<net.smert.jreactphysics3d.configuration.ContactsPositionCorrectionTechnique: net.smert.jreactphysics3d.configuration.ContactsPositionCorrectionTechnique valueOf(java.lang.String)>": 0.260989010989011
+        }, 
+        {
+            "<net.smert.jreactphysics3d.configuration.JointsPositionCorrectionTechnique: net.smert.jreactphysics3d.configuration.JointsPositionCorrectionTechnique valueOf(java.lang.String)>": 0.260989010989011
+        }, 
+        {
+            "<net.smert.jreactphysics3d.constraint.JointType: net.smert.jreactphysics3d.constraint.JointType valueOf(java.lang.String)>": 0.260989010989011
+        }, 
+        {
+            "<Catalano.Statistics.Analysis.PrincipalComponentAnalysis$AnalysisMethod: Catalano.Statistics.Analysis.PrincipalComponentAnalysis$AnalysisMethod valueOf(java.lang.String)>": 0.260989010989011
+        }
+    ], 
+    "<org.imgscalr.Scalr$Method: void <init>(java.lang.String,int)>": [
+        {
+            "<net.smert.jreactphysics3d.configuration.ContactsPositionCorrectionTechnique: void <init>(java.lang.String,int)>": 0.4415584415584415
+        }, 
+        {
+            "<net.smert.jreactphysics3d.constraint.JointType: void <init>(java.lang.String,int)>": 0.4415584415584415
+        }, 
+        {
+            "<net.smert.jreactphysics3d.collision.shapes.CollisionShapeType: void <init>(java.lang.String,int)>": 0.4415584415584415
+        }, 
+        {
+            "<net.smert.jreactphysics3d.configuration.JointsPositionCorrectionTechnique: void <init>(java.lang.String,int)>": 0.4415584415584415
+        }, 
+        {
+            "<Catalano.Statistics.Analysis.PrincipalComponentAnalysis$AnalysisMethod: void <init>(java.lang.String,int)>": 0.4415584415584415
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$13: java.awt.image.BufferedImage call()>": [
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage)>": 0.3257064761583511
+        }, 
+        {
+            "<boofcv.gui.feature.VisualizeRegions: java.awt.image.BufferedImage regions(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.32185554885254153
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage access$000(boofcv.gui.DemonstrationBase,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.2656968206795896
+        }, 
+        {
+            "<net.coobird.thumbnailator.tasks.io.BufferedImageSource: java.awt.image.BufferedImage read()>": 0.2502449010622899
+        }, 
+        {
+            "<boofcv.gui.binary.VisualizeBinaryData: java.awt.image.BufferedImage renderLabeled(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.2448114674157514
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$5: void <init>(java.awt.image.BufferedImage,int,java.awt.Color,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.gui.feature.FancyInterestPointRender: void addPoint(int,int,int,java.awt.Color)>": 0.27109637733575764
+        }, 
+        {
+            "<boofcv.gui.feature.FancyInterestPointRender: void addCircle(int,int,int,java.awt.Color)>": 0.27109637733575764
+        }, 
+        {
+            "<net.coobird.thumbnailator.filters.Canvas: void <init>(int,int,net.coobird.thumbnailator.geometry.Position,java.awt.Color)>": 0.27043572341135463
+        }, 
+        {
+            "<org.dyn4j.sandbox.utilities.ColorUtilities: java.awt.Color getForegroundColorFromBackgroundColor(java.awt.Color)>": 0.2625520112850373
+        }, 
+        {
+            "<net.coobird.thumbnailator.filters.Canvas: void <init>(int,int,net.coobird.thumbnailator.geometry.Position,boolean,java.awt.Color)>": 0.2614859079536759
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$6: java.awt.image.BufferedImage call()>": [
+        {
+            "<boofcv.gui.feature.VisualizeRegions: java.awt.image.BufferedImage regions(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.3638898306795251
+        }, 
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage)>": 0.3608833752453012
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage access$000(boofcv.gui.DemonstrationBase,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3417828030425322
+        }, 
+        {
+            "<boofcv.io.image.UtilImageIO: java.awt.image.BufferedImage loadPGM(java.lang.String,java.awt.image.BufferedImage)>": 0.3050951095007094
+        }, 
+        {
+            "<boofcv.io.image.UtilImageIO: java.awt.image.BufferedImage loadPPM(java.lang.String,java.awt.image.BufferedImage)>": 0.3050951095007094
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$DefaultThreadFactory: java.lang.Thread newThread(java.lang.Runnable)>": [
+        {
+            "<boofcv.demonstrations.fiducial.VisualizeSquareFiducial: void main(java.lang.String[])>": 0.4107603638495255
+        }, 
+        {
+            "<net.coobird.thumbnailator.name.Rename: java.lang.String appendSuffix(java.lang.String,java.lang.String)>": 0.4025300410824038
+        }, 
+        {
+            "<net.imglib2.util.Util: java.lang.String printCoordinates(boolean[])>": 0.3988901922587035
+        }, 
+        {
+            "<boofcv.demonstrations.feature.disparity.VisualizeStereoDisparity: void main(java.lang.String[])>": 0.3913183140699494
+        }, 
+        {
+            "<Catalano.Imaging.Filters.MedianCut$Cube: java.lang.String toString()>": 0.37894180474967026
+        }
+    ], 
+    "<org.imgscalr.Scalr: java.awt.image.BufferedImage resize(java.awt.image.BufferedImage,org.imgscalr.Scalr$Method,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.gui.feature.VisualizeRegions: java.awt.image.BufferedImage regions(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.4221384406977591
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage access$000(boofcv.gui.DemonstrationBase,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3862987882477794
+        }, 
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage)>": 0.3584499916166959
+        }, 
+        {
+            "<boofcv.gui.stereo.RectifiedPairPanel: void setImages(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3305827717112107
+        }, 
+        {
+            "<boofcv.demonstrations.sfm.d2.Motion2DPanel: void setImages(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3305827717112107
+        }
+    ], 
+    "<org.imgscalr.Scalr: java.awt.image.BufferedImage copyToOptimalImage(java.awt.image.BufferedImage)>": [
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage conditionalDeclare(java.awt.image.BufferedImage,java.awt.image.BufferedImage,int)>": 0.4031947218738441
+        }, 
+        {
+            "<boofcv.gui.tracker.TrackerObjectQuadPanel: void setBackGround(java.awt.image.BufferedImage)>": 0.39900676138793456
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage conditionalDeclare(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.39306107551882397
+        }, 
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage,int)>": 0.37779017280236943
+        }, 
+        {
+            "<Catalano.Imaging.FastBitmap: java.awt.image.BufferedImage toBufferedImage()>": 0.37277425339043274
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr: java.util.concurrent.Future resize(java.awt.image.BufferedImage,int,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.struct.ImageRectangle: void <init>(int,int,int,int)>": 0.378574635383447
+        }, 
+        {
+            "<boofcv.alg.feature.disparity.DisparityScoreWindowFive: void <init>(int,int,int,int)>": 0.3761148707363053
+        }, 
+        {
+            "<boofcv.alg.feature.disparity.DisparityScoreSadRect: void <init>(int,int,int,int)>": 0.3761148707363053
+        }, 
+        {
+            "<boofcv.factory.feature.disparity.FactoryStereoDisparityAlgs: boofcv.alg.feature.disparity.DisparitySparseScoreSadRect scoreDisparitySparseSadRect_F32(int,int,int,int)>": 0.36966592731969955
+        }, 
+        {
+            "<boofcv.factory.feature.disparity.FactoryStereoDisparityAlgs: boofcv.alg.feature.disparity.DisparitySparseScoreSadRect scoreDisparitySparseSadRect_U8(int,int,int,int)>": 0.36966592731969955
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr: java.util.concurrent.ExecutorService createService(java.util.concurrent.ThreadFactory)>": [
+        {
+            "<boofcv.alg.shapes.polygon.BinaryPolygonDetector: void setNumberOfSides(int,int)>": 0.2675247552091911
+        }, 
+        {
+            "<net.coobird.thumbnailator.builders.ThumbnailParameterBuilder: net.coobird.thumbnailator.builders.ThumbnailParameterBuilder size(int,int)>": 0.26167687024612707
+        }, 
+        {
+            "<boofcv.abst.feature.detect.extract.ConfigExtract: void checkValidity()>": 0.2463530342905367
+        }, 
+        {
+            "<boofcv.core.image.border.BorderIndex1D_Exception: int getIndex(int)>": 0.23957725931756899
+        }, 
+        {
+            "<Catalano.Math.Matrix: int[] Submatrix(int[],int,int)>": 0.23585877273441452
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr: void checkService()>": [
+        {
+            "<net.imglib2.type.volatiles.AbstractVolatileRealType: boolean valueEquals(net.imglib2.type.volatiles.AbstractVolatileRealType)>": 0.2100153553652932
+        }, 
+        {
+            "<net.imglib2.type.volatiles.AbstractVolatileNumericType: boolean valueEquals(net.imglib2.type.volatiles.AbstractVolatileNumericType)>": 0.2100153553652932
+        }, 
+        {
+            "<org.dyn4j.dynamics.AABBBroadphaseFilter: boolean isAllowed(org.dyn4j.geometry.AABB,org.dyn4j.collision.Collidable,org.dyn4j.collision.Fixture)>": 0.2064345605283724
+        }, 
+        {
+            "<boofcv.abst.feature.associate.EnforceUniqueByScore: boolean uniqueDestination()>": 0.2061203530784733
+        }, 
+        {
+            "<boofcv.abst.feature.associate.EnforceUniqueByScore: boolean uniqueSource()>": 0.2061203530784733
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$11: void <init>(java.awt.image.BufferedImage,org.imgscalr.Scalr$Method,int,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.alg.misc.PixelMath: void plus_A(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.40173660311460113
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void minus_B(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.40173660311460113
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void minus_A(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.40173660311460113
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void minus_A(byte[],int,int,int,int,int,byte[],int,int,int,int)>": 0.39944750361884807
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void plus_A(byte[],int,int,int,int,int,byte[],int,int,int,int)>": 0.39944750361884807
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$2: void <init>(java.awt.image.BufferedImage,int,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.alg.misc.PixelMath: void plus_A(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.43075194322318167
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void minus_B(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.43075194322318167
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void minus_A(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.43075194322318167
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void minus_A(byte[],int,int,int,int,int,byte[],int,int,int,int)>": 0.42829949247249477
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void plus_A(byte[],int,int,int,int,int,byte[],int,int,int,int)>": 0.42829949247249477
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr: java.util.concurrent.Future rotate(java.awt.image.BufferedImage,org.imgscalr.Scalr$Rotation,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<net.coobird.thumbnailator.resizers.BicubicResizer: void resize(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.2166152246030874
+        }, 
+        {
+            "<net.coobird.thumbnailator.resizers.BilinearResizer: void resize(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.2166152246030874
+        }, 
+        {
+            "<net.coobird.thumbnailator.resizers.Resizers: void resize(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.19816148218599342
+        }, 
+        {
+            "<boofcv.gui.image.ImagePanel: void setBufferedImageSafe(java.awt.image.BufferedImage)>": 0.16151374072799285
+        }, 
+        {
+            "<boofcv.gui.tracker.TldVisualizationPanel: void setFrame(java.awt.image.BufferedImage)>": 0.16151374072799285
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$4: java.awt.image.BufferedImage call()>": [
+        {
+            "<boofcv.gui.feature.VisualizeRegions: java.awt.image.BufferedImage regions(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.3638898306795251
+        }, 
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage)>": 0.3608833752453012
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage access$000(boofcv.gui.DemonstrationBase,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3417828030425322
+        }, 
+        {
+            "<boofcv.io.image.UtilImageIO: java.awt.image.BufferedImage loadPGM(java.lang.String,java.awt.image.BufferedImage)>": 0.3050951095007094
+        }, 
+        {
+            "<boofcv.io.image.UtilImageIO: java.awt.image.BufferedImage loadPPM(java.lang.String,java.awt.image.BufferedImage)>": 0.3050951095007094
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$ServerThreadFactory: java.lang.Thread newThread(java.lang.Runnable)>": [
+        {
+            "<Catalano.Core.Concurrent.SimpleDeamonThreadFactory: java.lang.Thread newThread(java.lang.Runnable)>": 0.3167463925041079
+        }, 
+        {
+            "<org.jbox2d.testbed.framework.TestbedController: void startAnimator()>": 0.17954621161490195
+        }, 
+        {
+            "<org.jbox2d.testbed.framework.TestbedController: void <init>(org.jbox2d.testbed.framework.TestbedModel,org.jbox2d.testbed.framework.AbstractTestbedController$UpdateBehavior,org.jbox2d.testbed.framework.AbstractTestbedController$MouseBehavior,org.jbox2d.testbed.framework.TestbedErrorHandler)>": 0.1383496476323666
+        }, 
+        {
+            "<boofcv.alg.tracker.tld.TldVarianceFilter: void <init>(java.lang.Class)>": 0.12347867129216336
+        }, 
+        {
+            "<Catalano.Imaging.Concurrent.Filters.Exp: void Parallel(Catalano.Imaging.FastBitmap)>": 0.11750241777009603
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$1: java.awt.image.BufferedImage call()>": [
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage access$000(boofcv.gui.DemonstrationBase,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3669536811758078
+        }, 
+        {
+            "<boofcv.gui.feature.VisualizeRegions: java.awt.image.BufferedImage regions(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.3368220787518672
+        }, 
+        {
+            "<boofcv.io.image.UtilImageIO: java.awt.image.BufferedImage loadPGM(java.lang.String,java.awt.image.BufferedImage)>": 0.32766369369257814
+        }, 
+        {
+            "<boofcv.io.image.UtilImageIO: java.awt.image.BufferedImage loadPPM(java.lang.String,java.awt.image.BufferedImage)>": 0.32766369369257814
+        }, 
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage)>": 0.3254166423762485
+        }
+    ], 
+    "<org.imgscalr.Scalr: java.awt.image.BufferedImage resize(java.awt.image.BufferedImage,org.imgscalr.Scalr$Mode,int,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.gui.feature.VisualizeRegions: java.awt.image.BufferedImage regions(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.4382289262218888
+        }, 
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage)>": 0.35583019915525094
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage access$000(boofcv.gui.DemonstrationBase,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.33189832475144154
+        }, 
+        {
+            "<boofcv.gui.binary.VisualizeBinaryData: java.awt.image.BufferedImage renderLabeled(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.2959020877626752
+        }, 
+        {
+            "<boofcv.gui.binary.VisualizeBinaryData: java.awt.image.BufferedImage renderLabeledBG(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.29476251983471463
+        }
+    ], 
+    "<org.imgscalr.Scalr$Method: org.imgscalr.Scalr$Method valueOf(java.lang.String)>": [
+        {
+            "<net.smert.jreactphysics3d.collision.shapes.CollisionShapeType: net.smert.jreactphysics3d.collision.shapes.CollisionShapeType valueOf(java.lang.String)>": 0.260989010989011
+        }, 
+        {
+            "<net.smert.jreactphysics3d.configuration.ContactsPositionCorrectionTechnique: net.smert.jreactphysics3d.configuration.ContactsPositionCorrectionTechnique valueOf(java.lang.String)>": 0.260989010989011
+        }, 
+        {
+            "<net.smert.jreactphysics3d.configuration.JointsPositionCorrectionTechnique: net.smert.jreactphysics3d.configuration.JointsPositionCorrectionTechnique valueOf(java.lang.String)>": 0.260989010989011
+        }, 
+        {
+            "<net.smert.jreactphysics3d.constraint.JointType: net.smert.jreactphysics3d.constraint.JointType valueOf(java.lang.String)>": 0.260989010989011
+        }, 
+        {
+            "<Catalano.Statistics.Analysis.PrincipalComponentAnalysis$AnalysisMethod: Catalano.Statistics.Analysis.PrincipalComponentAnalysis$AnalysisMethod valueOf(java.lang.String)>": 0.260989010989011
+        }
+    ], 
+    "<org.imgscalr.Scalr: java.awt.image.BufferedImage crop(java.awt.image.BufferedImage,int,int,int,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.alg.InputSanityCheck: void checkSameShapeB(boofcv.struct.image.ImageMultiBand,boofcv.struct.image.ImageMultiBand)>": 0.5079929794296626
+        }, 
+        {
+            "<boofcv.alg.InputSanityCheck: void checkSameShape(boofcv.struct.image.ImageBase,boofcv.struct.image.ImageBase)>": 0.494555765237028
+        }, 
+        {
+            "<boofcv.factory.feature.detect.template.FactoryTemplateMatching: boofcv.alg.feature.detect.template.TemplateMatchingIntensity createIntensity(boofcv.factory.feature.detect.template.TemplateScoreType,java.lang.Class)>": 0.46977009794238256
+        }, 
+        {
+            "<net.coobird.thumbnailator.Thumbnailator: void validateDimensions(int,int)>": 0.45641055617980414
+        }, 
+        {
+            "<net.coobird.thumbnailator.Thumbnails: void validateDimensions(int,int)>": 0.45641055617980414
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$9: java.awt.image.BufferedImage call()>": [
+        {
+            "<boofcv.gui.feature.VisualizeRegions: java.awt.image.BufferedImage regions(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.3236702418003547
+        }, 
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage)>": 0.3213748350499016
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage access$000(boofcv.gui.DemonstrationBase,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.30413283251630874
+        }, 
+        {
+            "<boofcv.io.image.UtilImageIO: java.awt.image.BufferedImage loadPGM(java.lang.String,java.awt.image.BufferedImage)>": 0.2713879763268005
+        }, 
+        {
+            "<boofcv.io.image.UtilImageIO: java.awt.image.BufferedImage loadPPM(java.lang.String,java.awt.image.BufferedImage)>": 0.2713879763268005
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr: java.util.concurrent.Future pad(java.awt.image.BufferedImage,int,java.awt.Color,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.gui.feature.VisualizeFeatures: void drawPoint(java.awt.Graphics2D,int,int,java.awt.Color)>": 0.2586903668375902
+        }, 
+        {
+            "<boofcv.gui.feature.VisualizeFeatures: void drawPoint(java.awt.Graphics2D,int,int,int,java.awt.Color)>": 0.25759901869833807
+        }, 
+        {
+            "<boofcv.struct.ImageRectangle: void <init>(int,int,int,int)>": 0.2195149990046489
+        }, 
+        {
+            "<boofcv.alg.feature.disparity.DisparityScoreWindowFive: void <init>(int,int,int,int)>": 0.21336840744687463
+        }, 
+        {
+            "<boofcv.alg.feature.disparity.DisparityScoreSadRect: void <init>(int,int,int,int)>": 0.21336840744687463
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$6: void <init>(java.awt.image.BufferedImage,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.demonstrations.calibration.CalibrateStereoPlanarGuiApp$1: void <init>(boofcv.demonstrations.calibration.CalibrateStereoPlanarGuiApp,int,java.awt.image.BufferedImage,java.awt.image.BufferedImage,boofcv.demonstrations.calibration.CalibrateStereoPlanarGuiApp$ProcessThread)>": 0.2955141549010945
+        }, 
+        {
+            "<boofcv.gui.image.ImageGridPanel: java.awt.image.BufferedImage getImage(int,int)>": 0.2928875995503296
+        }, 
+        {
+            "<boofcv.gui.image.ImageGridPanel: void setImage(int,int,java.awt.image.BufferedImage)>": 0.2928875995503296
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void plus_A(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.2903598916547916
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void minus_B(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.2903598916547916
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr: java.util.concurrent.Future resize(java.awt.image.BufferedImage,org.imgscalr.Scalr$Method,org.imgscalr.Scalr$Mode,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.struct.ImageRectangle: void <init>(int,int,int,int)>": 0.20803954105360056
+        }, 
+        {
+            "<boofcv.alg.feature.disparity.DisparityScoreWindowFive: void <init>(int,int,int,int)>": 0.2021934878577643
+        }, 
+        {
+            "<boofcv.alg.feature.disparity.DisparityScoreSadRect: void <init>(int,int,int,int)>": 0.2021934878577643
+        }, 
+        {
+            "<boofcv.struct.image.InterleavedS16: void <init>(int,int,int)>": 0.20016824579645792
+        }, 
+        {
+            "<boofcv.struct.image.InterleavedS8: void <init>(int,int,int)>": 0.20016824579645792
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr: java.util.concurrent.Future resize(java.awt.image.BufferedImage,org.imgscalr.Scalr$Method,org.imgscalr.Scalr$Mode,int,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.struct.ImageRectangle: void <init>(int,int,int,int)>": 0.34775954824320165
+        }, 
+        {
+            "<boofcv.alg.feature.disparity.DisparityScoreWindowFive: void <init>(int,int,int,int)>": 0.3454777632145246
+        }, 
+        {
+            "<boofcv.alg.feature.disparity.DisparityScoreSadRect: void <init>(int,int,int,int)>": 0.3454777632145246
+        }, 
+        {
+            "<boofcv.factory.feature.disparity.FactoryStereoDisparityAlgs: boofcv.alg.feature.disparity.DisparitySparseScoreSadRect scoreDisparitySparseSadRect_F32(int,int,int,int)>": 0.33955068445191267
+        }, 
+        {
+            "<boofcv.factory.feature.disparity.FactoryStereoDisparityAlgs: boofcv.alg.feature.disparity.DisparitySparseScoreSadRect scoreDisparitySparseSadRect_U8(int,int,int,int)>": 0.33955068445191267
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$3: java.awt.image.BufferedImage call()>": [
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage)>": 0.31090773847987174
+        }, 
+        {
+            "<boofcv.gui.feature.VisualizeRegions: java.awt.image.BufferedImage regions(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.2995344946355971
+        }, 
+        {
+            "<net.coobird.thumbnailator.tasks.io.BufferedImageSource: java.awt.image.BufferedImage read()>": 0.29347113688374477
+        }, 
+        {
+            "<net.coobird.thumbnailator.makers.ScaledThumbnailMaker: java.awt.image.BufferedImage make(java.awt.image.BufferedImage)>": 0.25838142711995854
+        }, 
+        {
+            "<boofcv.gui.binary.VisualizeBinaryData: java.awt.image.BufferedImage renderLabeledBG(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.25739878777062386
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr: java.util.concurrent.Future apply(java.awt.image.BufferedImage,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<net.coobird.thumbnailator.resizers.BicubicResizer: void resize(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.23193988221163986
+        }, 
+        {
+            "<net.coobird.thumbnailator.resizers.BilinearResizer: void resize(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.23193988221163986
+        }, 
+        {
+            "<net.coobird.thumbnailator.resizers.Resizers: void resize(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.2121850019674112
+        }, 
+        {
+            "<boofcv.gui.image.ImagePanel: void setBufferedImageSafe(java.awt.image.BufferedImage)>": 0.17280188407391203
+        }, 
+        {
+            "<boofcv.gui.tracker.TldVisualizationPanel: void setFrame(java.awt.image.BufferedImage)>": 0.17280188407391203
+        }
+    ], 
+    "<org.imgscalr.Scalr: java.awt.image.BufferedImage resize(java.awt.image.BufferedImage,org.imgscalr.Scalr$Method,org.imgscalr.Scalr$Mode,int,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<org.jbox2d.testbed.tests.BulletTest: void step(org.jbox2d.testbed.framework.TestbedSettings)>": 0.2712363732558679
+        }, 
+        {
+            "<Catalano.Imaging.Filters.UnsharpMasking: void applyInPlace(Catalano.Imaging.FastBitmap)>": 0.23178310559388984
+        }, 
+        {
+            "<boofcv.misc.BoofMiscOps: boolean checkInBounds(boofcv.struct.image.ImageBase,int,int,int,int,float,float)>": 0.23095508233648065
+        }, 
+        {
+            "<org.jbox2d.testbed.framework.AbstractTestbedController: void setFrameRate(int)>": 0.22742711612316033
+        }, 
+        {
+            "<boofcv.alg.filter.misc.ImplAverageDownSample: void horizontal(boofcv.struct.image.GrayU16,boofcv.struct.image.GrayF32)>": 0.22677734227929208
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$2: java.awt.image.BufferedImage call()>": [
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage)>": 0.35476941224247344
+        }, 
+        {
+            "<boofcv.gui.feature.VisualizeRegions: java.awt.image.BufferedImage regions(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.35074397866202217
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage access$000(boofcv.gui.DemonstrationBase,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.28950527762253614
+        }, 
+        {
+            "<net.coobird.thumbnailator.tasks.io.BufferedImageSource: java.awt.image.BufferedImage read()>": 0.27176942445623087
+        }, 
+        {
+            "<boofcv.gui.binary.VisualizeBinaryData: java.awt.image.BufferedImage renderLabeled(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.26612882181781344
+        }
+    ], 
+    "<org.imgscalr.Scalr: java.awt.image.BufferedImage rotate(java.awt.image.BufferedImage,org.imgscalr.Scalr$Rotation,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<net.coobird.thumbnailator.filters.Canvas: java.awt.image.BufferedImage apply(java.awt.image.BufferedImage)>": 0.26653325805329103
+        }, 
+        {
+            "<boofcv.gui.feature.ScaleSpacePointPanel: void paintComponent(java.awt.Graphics)>": 0.2653524281599652
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage conditionalDeclare(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.26287090455711437
+        }, 
+        {
+            "<boofcv.gui.stereo.RectifiedPairPanel: void paintComponent(java.awt.Graphics)>": 0.26037486558091694
+        }, 
+        {
+            "<net.coobird.thumbnailator.resizers.ProgressiveBilinearResizer: void resize(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.25943216855568374
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$9: void <init>(java.awt.image.BufferedImage,org.imgscalr.Scalr$Method,org.imgscalr.Scalr$Mode,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.demonstrations.calibration.CalibrateStereoPlanarGuiApp$1: void <init>(boofcv.demonstrations.calibration.CalibrateStereoPlanarGuiApp,int,java.awt.image.BufferedImage,java.awt.image.BufferedImage,boofcv.demonstrations.calibration.CalibrateStereoPlanarGuiApp$ProcessThread)>": 0.23706194160456948
+        }, 
+        {
+            "<boofcv.gui.image.ImageGridPanel: java.awt.image.BufferedImage getImage(int,int)>": 0.23487710439159762
+        }, 
+        {
+            "<boofcv.gui.image.ImageGridPanel: void setImage(int,int,java.awt.image.BufferedImage)>": 0.23487710439159762
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void plus_A(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.23357397820184891
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void minus_B(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.23357397820184891
+        }
+    ], 
+    "<org.imgscalr.Scalr: java.awt.image.BufferedImage resize(java.awt.image.BufferedImage,org.imgscalr.Scalr$Method,org.imgscalr.Scalr$Mode,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.gui.feature.VisualizeRegions: java.awt.image.BufferedImage regions(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.4221384406977591
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage access$000(boofcv.gui.DemonstrationBase,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3862987882477794
+        }, 
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage)>": 0.3584499916166959
+        }, 
+        {
+            "<boofcv.gui.stereo.RectifiedPairPanel: void setImages(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3305827717112107
+        }, 
+        {
+            "<boofcv.demonstrations.sfm.d2.Motion2DPanel: void setImages(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3305827717112107
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$12: void <init>(java.awt.image.BufferedImage,org.imgscalr.Scalr$Mode,int,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.alg.misc.PixelMath: void plus_A(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.40173660311460113
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void minus_B(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.40173660311460113
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void minus_A(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.40173660311460113
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void minus_A(byte[],int,int,int,int,int,byte[],int,int,int,int)>": 0.39944750361884807
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void plus_A(byte[],int,int,int,int,int,byte[],int,int,int,int)>": 0.39944750361884807
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$10: java.awt.image.BufferedImage call()>": [
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage)>": 0.35476941224247344
+        }, 
+        {
+            "<boofcv.gui.feature.VisualizeRegions: java.awt.image.BufferedImage regions(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.35074397866202217
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage access$000(boofcv.gui.DemonstrationBase,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.28950527762253614
+        }, 
+        {
+            "<net.coobird.thumbnailator.tasks.io.BufferedImageSource: java.awt.image.BufferedImage read()>": 0.27176942445623087
+        }, 
+        {
+            "<boofcv.gui.binary.VisualizeBinaryData: java.awt.image.BufferedImage renderLabeled(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.26612882181781344
+        }
+    ], 
+    "<org.imgscalr.Scalr: java.awt.image.BufferedImage scaleImageIncrementally(java.awt.image.BufferedImage,int,int,org.imgscalr.Scalr$Method,java.lang.Object)>": [
+        {
+            "<boofcv.core.image.FactoryGImageGray$GSingle_U8: java.lang.Number get(int,int)>": 0.2910009601650366
+        }, 
+        {
+            "<boofcv.core.image.FactoryGImageGray$Border_I32: java.lang.Number get(int,int)>": 0.2910009601650366
+        }, 
+        {
+            "<boofcv.core.image.FactoryGImageGray$GSingle_S8: java.lang.Number get(int,int)>": 0.2910009601650366
+        }, 
+        {
+            "<boofcv.core.image.FactoryGImageGray$GSingle_S16: java.lang.Number get(int,int)>": 0.2910009601650366
+        }, 
+        {
+            "<boofcv.core.image.FactoryGImageGray$GSingle_U16: java.lang.Number get(int,int)>": 0.2910009601650366
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$5: java.awt.image.BufferedImage call()>": [
+        {
+            "<boofcv.gui.feature.VisualizeRegions: java.awt.image.BufferedImage regions(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.3419791688853266
+        }, 
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage)>": 0.33937625283854533
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage access$000(boofcv.gui.DemonstrationBase,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3212788383895507
+        }, 
+        {
+            "<boofcv.io.image.UtilImageIO: java.awt.image.BufferedImage loadPGM(java.lang.String,java.awt.image.BufferedImage)>": 0.2867318984142575
+        }, 
+        {
+            "<boofcv.io.image.UtilImageIO: java.awt.image.BufferedImage loadPPM(java.lang.String,java.awt.image.BufferedImage)>": 0.2867318984142575
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$11: java.awt.image.BufferedImage call()>": [
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage)>": 0.3392970356839851
+        }, 
+        {
+            "<boofcv.gui.feature.VisualizeRegions: java.awt.image.BufferedImage regions(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.33535944107546733
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage access$000(boofcv.gui.DemonstrationBase,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.27682729505344245
+        }, 
+        {
+            "<net.coobird.thumbnailator.tasks.io.BufferedImageSource: java.awt.image.BufferedImage read()>": 0.2603372272439597
+        }, 
+        {
+            "<boofcv.gui.binary.VisualizeBinaryData: java.awt.image.BufferedImage renderLabeled(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.2547969607118756
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$DefaultThreadFactory: void <init>()>": [
+        {
+            "<net.coobird.thumbnailator.util.exif.Orientation: java.lang.String toString()>": 0.3304579729144884
+        }, 
+        {
+            "<Catalano.Imaging.Filters.MedianCut$Cube: java.lang.String toString()>": 0.32919082892942136
+        }, 
+        {
+            "<net.imglib2.util.Util: java.lang.String printCoordinates(int[])>": 0.3249583763445206
+        }, 
+        {
+            "<net.imglib2.util.Util: java.lang.String printCoordinates(boolean[])>": 0.32468979368306145
+        }, 
+        {
+            "<Catalano.Core.IntRange: java.lang.String toString()>": 0.32442145068759737
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$14: void <init>(java.awt.image.BufferedImage,org.imgscalr.Scalr$Rotation,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage access$000(boofcv.gui.DemonstrationBase,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.2592116326290962
+        }, 
+        {
+            "<boofcv.gui.stereo.RectifiedPairPanel: void setImages(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.25641037093935337
+        }, 
+        {
+            "<boofcv.demonstrations.sfm.d2.Motion2DPanel: void setImages(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.25641037093935337
+        }, 
+        {
+            "<boofcv.demonstrations.feature.associate.VisualizeAssociationMatchesApp$1: void <init>(boofcv.demonstrations.feature.associate.VisualizeAssociationMatchesApp,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.23382364178964823
+        }, 
+        {
+            "<boofcv.demonstrations.feature.associate.VisualizeAssociationAlgorithmsApp$1: void <init>(boofcv.demonstrations.feature.associate.VisualizeAssociationAlgorithmsApp,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.23382364178964823
+        }
+    ], 
+    "<org.imgscalr.Scalr: void log(int,java.lang.String,java.lang.Object[])>": [
+        {
+            "<org.jbox2d.profile.BasicPerformanceTest: void printf(java.lang.String,java.lang.Object[])>": 0.4523353482838929
+        }, 
+        {
+            "<org.jbox2d.profile.BasicPerformanceTest: void println(java.lang.String)>": 0.4099437895324428
+        }, 
+        {
+            "<boofcv.app.CameraCalibration: void process()>": 0.3745709746212794
+        }, 
+        {
+            "<boofcv.io.UtilIO: java.lang.String pathExample(java.lang.String)>": 0.35001452876484634
+        }, 
+        {
+            "<boofcv.app.FiducialDetection: void printHelp()>": 0.3497819272049221
+        }
+    ], 
+    "<org.imgscalr.Scalr$Rotation: void <init>(java.lang.String,int)>": [
+        {
+            "<net.smert.jreactphysics3d.configuration.ContactsPositionCorrectionTechnique: void <init>(java.lang.String,int)>": 0.4415584415584415
+        }, 
+        {
+            "<net.smert.jreactphysics3d.constraint.JointType: void <init>(java.lang.String,int)>": 0.4415584415584415
+        }, 
+        {
+            "<net.smert.jreactphysics3d.collision.shapes.CollisionShapeType: void <init>(java.lang.String,int)>": 0.4415584415584415
+        }, 
+        {
+            "<net.smert.jreactphysics3d.configuration.JointsPositionCorrectionTechnique: void <init>(java.lang.String,int)>": 0.4415584415584415
+        }, 
+        {
+            "<Catalano.Statistics.Analysis.PrincipalComponentAnalysis$AnalysisMethod: void <init>(java.lang.String,int)>": 0.4415584415584415
+        }
+    ], 
+    "<org.imgscalr.Scalr: java.awt.image.BufferedImage resize(java.awt.image.BufferedImage,org.imgscalr.Scalr$Mode,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.gui.feature.VisualizeRegions: java.awt.image.BufferedImage regions(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.4221384406977591
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage access$000(boofcv.gui.DemonstrationBase,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3862987882477794
+        }, 
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage)>": 0.3584499916166959
+        }, 
+        {
+            "<boofcv.gui.stereo.RectifiedPairPanel: void setImages(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3305827717112107
+        }, 
+        {
+            "<boofcv.demonstrations.sfm.d2.Motion2DPanel: void setImages(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3305827717112107
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr: java.util.concurrent.Future resize(java.awt.image.BufferedImage,org.imgscalr.Scalr$Mode,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.struct.ImageRectangle: void <init>(int,int,int,int)>": 0.2195149990046489
+        }, 
+        {
+            "<boofcv.alg.feature.disparity.DisparityScoreWindowFive: void <init>(int,int,int,int)>": 0.21336840744687463
+        }, 
+        {
+            "<boofcv.alg.feature.disparity.DisparityScoreSadRect: void <init>(int,int,int,int)>": 0.21336840744687463
+        }, 
+        {
+            "<boofcv.struct.image.InterleavedS16: void <init>(int,int,int)>": 0.21121980004183158
+        }, 
+        {
+            "<boofcv.struct.image.InterleavedS8: void <init>(int,int,int)>": 0.21121980004183158
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$1: void <init>(java.awt.image.BufferedImage,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage access$000(boofcv.gui.DemonstrationBase,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3046478222330803
+        }, 
+        {
+            "<boofcv.gui.stereo.RectifiedPairPanel: void setImages(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.30177879823984954
+        }, 
+        {
+            "<boofcv.demonstrations.sfm.d2.Motion2DPanel: void setImages(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.30177879823984954
+        }, 
+        {
+            "<boofcv.demonstrations.feature.associate.VisualizeAssociationMatchesApp$1: void <init>(boofcv.demonstrations.feature.associate.VisualizeAssociationMatchesApp,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.2753363272849359
+        }, 
+        {
+            "<boofcv.demonstrations.feature.associate.VisualizeAssociationAlgorithmsApp$1: void <init>(boofcv.demonstrations.feature.associate.VisualizeAssociationAlgorithmsApp,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.2753363272849359
+        }
+    ], 
+    "<org.imgscalr.Scalr: java.awt.image.BufferedImage pad(java.awt.image.BufferedImage,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.gui.feature.VisualizeRegions: java.awt.image.BufferedImage regions(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.3958867244505525
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage access$000(boofcv.gui.DemonstrationBase,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3617459538046396
+        }, 
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage)>": 0.33312174758709234
+        }, 
+        {
+            "<boofcv.gui.stereo.RectifiedPairPanel: void setImages(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3081016898631253
+        }, 
+        {
+            "<boofcv.demonstrations.sfm.d2.Motion2DPanel: void setImages(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3081016898631253
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$7: java.awt.image.BufferedImage call()>": [
+        {
+            "<boofcv.gui.feature.VisualizeRegions: java.awt.image.BufferedImage regions(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.3419791688853266
+        }, 
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage)>": 0.33937625283854533
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage access$000(boofcv.gui.DemonstrationBase,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3212788383895507
+        }, 
+        {
+            "<boofcv.io.image.UtilImageIO: java.awt.image.BufferedImage loadPGM(java.lang.String,java.awt.image.BufferedImage)>": 0.2867318984142575
+        }, 
+        {
+            "<boofcv.io.image.UtilImageIO: java.awt.image.BufferedImage loadPPM(java.lang.String,java.awt.image.BufferedImage)>": 0.2867318984142575
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr: java.util.concurrent.Future crop(java.awt.image.BufferedImage,int,int,int,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.alg.feature.disparity.DisparityScoreWindowFive: void <init>(int,int,int,int)>": 0.5113998688171311
+        }, 
+        {
+            "<boofcv.alg.feature.disparity.DisparityScoreSadRect: void <init>(int,int,int,int)>": 0.5113998688171311
+        }, 
+        {
+            "<boofcv.struct.ImageRectangle: void <init>(int,int,int,int)>": 0.508839433446702
+        }, 
+        {
+            "<boofcv.factory.feature.disparity.FactoryStereoDisparityAlgs: boofcv.alg.feature.disparity.DisparitySparseScoreSadRect scoreDisparitySparseSadRect_F32(int,int,int,int)>": 0.5026424617865041
+        }, 
+        {
+            "<boofcv.factory.feature.disparity.FactoryStereoDisparityAlgs: boofcv.alg.feature.disparity.DisparitySparseScoreSadRect scoreDisparitySparseSadRect_U8(int,int,int,int)>": 0.5026424617865041
+        }
+    ], 
+    "<org.imgscalr.Scalr: java.awt.image.BufferedImage resize(java.awt.image.BufferedImage,int,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.gui.feature.VisualizeRegions: java.awt.image.BufferedImage regions(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.4382289262218888
+        }, 
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage)>": 0.35583019915525094
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage access$000(boofcv.gui.DemonstrationBase,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.33189832475144154
+        }, 
+        {
+            "<boofcv.gui.binary.VisualizeBinaryData: java.awt.image.BufferedImage renderLabeled(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.2959020877626752
+        }, 
+        {
+            "<boofcv.gui.binary.VisualizeBinaryData: java.awt.image.BufferedImage renderLabeledBG(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.29476251983471463
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr: java.util.concurrent.Future resize(java.awt.image.BufferedImage,org.imgscalr.Scalr$Method,int,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.struct.ImageRectangle: void <init>(int,int,int,int)>": 0.3621866638286397
+        }, 
+        {
+            "<boofcv.alg.feature.disparity.DisparityScoreWindowFive: void <init>(int,int,int,int)>": 0.3598208240591574
+        }, 
+        {
+            "<boofcv.alg.feature.disparity.DisparityScoreSadRect: void <init>(int,int,int,int)>": 0.3598208240591574
+        }, 
+        {
+            "<boofcv.factory.feature.disparity.FactoryStereoDisparityAlgs: boofcv.alg.feature.disparity.DisparitySparseScoreSadRect scoreDisparitySparseSadRect_F32(int,int,int,int)>": 0.3536493166191083
+        }, 
+        {
+            "<boofcv.factory.feature.disparity.FactoryStereoDisparityAlgs: boofcv.alg.feature.disparity.DisparitySparseScoreSadRect scoreDisparitySparseSadRect_U8(int,int,int,int)>": 0.3536493166191083
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$14: java.awt.image.BufferedImage call()>": [
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage access$000(boofcv.gui.DemonstrationBase,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3417828030425322
+        }, 
+        {
+            "<boofcv.gui.feature.VisualizeRegions: java.awt.image.BufferedImage regions(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.3135592861125228
+        }, 
+        {
+            "<boofcv.io.image.UtilImageIO: java.awt.image.BufferedImage loadPGM(java.lang.String,java.awt.image.BufferedImage)>": 0.3050951095007094
+        }, 
+        {
+            "<boofcv.io.image.UtilImageIO: java.awt.image.BufferedImage loadPPM(java.lang.String,java.awt.image.BufferedImage)>": 0.3050951095007094
+        }, 
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage)>": 0.303288013298536
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr: java.util.concurrent.Future crop(java.awt.image.BufferedImage,int,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.struct.ImageRectangle: void <init>(int,int,int,int)>": 0.378574635383447
+        }, 
+        {
+            "<boofcv.alg.feature.disparity.DisparityScoreWindowFive: void <init>(int,int,int,int)>": 0.3761148707363053
+        }, 
+        {
+            "<boofcv.alg.feature.disparity.DisparityScoreSadRect: void <init>(int,int,int,int)>": 0.3761148707363053
+        }, 
+        {
+            "<boofcv.factory.feature.disparity.FactoryStereoDisparityAlgs: boofcv.alg.feature.disparity.DisparitySparseScoreSadRect scoreDisparitySparseSadRect_F32(int,int,int,int)>": 0.36966592731969955
+        }, 
+        {
+            "<boofcv.factory.feature.disparity.FactoryStereoDisparityAlgs: boofcv.alg.feature.disparity.DisparitySparseScoreSadRect scoreDisparitySparseSadRect_U8(int,int,int,int)>": 0.36966592731969955
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr: java.util.concurrent.Future resize(java.awt.image.BufferedImage,org.imgscalr.Scalr$Mode,int,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.struct.ImageRectangle: void <init>(int,int,int,int)>": 0.3621866638286397
+        }, 
+        {
+            "<boofcv.alg.feature.disparity.DisparityScoreWindowFive: void <init>(int,int,int,int)>": 0.3598208240591574
+        }, 
+        {
+            "<boofcv.alg.feature.disparity.DisparityScoreSadRect: void <init>(int,int,int,int)>": 0.3598208240591574
+        }, 
+        {
+            "<boofcv.factory.feature.disparity.FactoryStereoDisparityAlgs: boofcv.alg.feature.disparity.DisparitySparseScoreSadRect scoreDisparitySparseSadRect_F32(int,int,int,int)>": 0.3536493166191083
+        }, 
+        {
+            "<boofcv.factory.feature.disparity.FactoryStereoDisparityAlgs: boofcv.alg.feature.disparity.DisparitySparseScoreSadRect scoreDisparitySparseSadRect_U8(int,int,int,int)>": 0.3536493166191083
+        }
+    ], 
+    "<org.imgscalr.Scalr: java.awt.image.BufferedImage resize(java.awt.image.BufferedImage,org.imgscalr.Scalr$Method,int,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.gui.feature.VisualizeRegions: java.awt.image.BufferedImage regions(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.4382289262218888
+        }, 
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage)>": 0.35583019915525094
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage access$000(boofcv.gui.DemonstrationBase,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.33189832475144154
+        }, 
+        {
+            "<boofcv.gui.binary.VisualizeBinaryData: java.awt.image.BufferedImage renderLabeled(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.2959020877626752
+        }, 
+        {
+            "<boofcv.gui.binary.VisualizeBinaryData: java.awt.image.BufferedImage renderLabeledBG(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.29476251983471463
+        }
+    ], 
+    "<org.imgscalr.Scalr: java.awt.image.BufferedImage crop(java.awt.image.BufferedImage,int,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.gui.feature.VisualizeRegions: java.awt.image.BufferedImage regions(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.4727479854279886
+        }, 
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage)>": 0.3831324927740637
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage access$000(boofcv.gui.DemonstrationBase,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.35783829691542424
+        }, 
+        {
+            "<boofcv.gui.binary.VisualizeBinaryData: java.awt.image.BufferedImage renderLabeled(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.3226434210250239
+        }, 
+        {
+            "<boofcv.gui.binary.VisualizeBinaryData: java.awt.image.BufferedImage renderLabeledBG(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.32111667794043186
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$4: void <init>(java.awt.image.BufferedImage,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.demonstrations.calibration.CalibrateStereoPlanarGuiApp$1: void <init>(boofcv.demonstrations.calibration.CalibrateStereoPlanarGuiApp,int,java.awt.image.BufferedImage,java.awt.image.BufferedImage,boofcv.demonstrations.calibration.CalibrateStereoPlanarGuiApp$ProcessThread)>": 0.2955141549010945
+        }, 
+        {
+            "<boofcv.gui.image.ImageGridPanel: java.awt.image.BufferedImage getImage(int,int)>": 0.2928875995503296
+        }, 
+        {
+            "<boofcv.gui.image.ImageGridPanel: void setImage(int,int,java.awt.image.BufferedImage)>": 0.2928875995503296
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void plus_A(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.2903598916547916
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void minus_B(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.2903598916547916
+        }
+    ], 
+    "<org.imgscalr.Scalr$Mode: org.imgscalr.Scalr$Mode valueOf(java.lang.String)>": [
+        {
+            "<net.smert.jreactphysics3d.collision.shapes.CollisionShapeType: net.smert.jreactphysics3d.collision.shapes.CollisionShapeType valueOf(java.lang.String)>": 0.260989010989011
+        }, 
+        {
+            "<net.smert.jreactphysics3d.configuration.ContactsPositionCorrectionTechnique: net.smert.jreactphysics3d.configuration.ContactsPositionCorrectionTechnique valueOf(java.lang.String)>": 0.260989010989011
+        }, 
+        {
+            "<net.smert.jreactphysics3d.configuration.JointsPositionCorrectionTechnique: net.smert.jreactphysics3d.configuration.JointsPositionCorrectionTechnique valueOf(java.lang.String)>": 0.260989010989011
+        }, 
+        {
+            "<net.smert.jreactphysics3d.constraint.JointType: net.smert.jreactphysics3d.constraint.JointType valueOf(java.lang.String)>": 0.260989010989011
+        }, 
+        {
+            "<Catalano.Statistics.Analysis.PrincipalComponentAnalysis$AnalysisMethod: Catalano.Statistics.Analysis.PrincipalComponentAnalysis$AnalysisMethod valueOf(java.lang.String)>": 0.260989010989011
+        }
+    ], 
+    "<org.imgscalr.Scalr: java.awt.image.BufferedImage createOptimalImage(java.awt.image.BufferedImage)>": [
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage)>": 0.4489130684527521
+        }, 
+        {
+            "<boofcv.gui.feature.VisualizeRegions: java.awt.image.BufferedImage regions(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.3728362994057675
+        }, 
+        {
+            "<boofcv.gui.tracker.TrackerObjectQuadPanel: void setBackGround(java.awt.image.BufferedImage)>": 0.3541244992561513
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage conditionalDeclare(java.awt.image.BufferedImage,java.awt.image.BufferedImage,int)>": 0.35378496742571364
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage conditionalDeclare(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3534309648728945
+        }
+    ], 
+    "<org.imgscalr.Scalr: java.awt.image.BufferedImage scaleImage(java.awt.image.BufferedImage,int,int,java.lang.Object)>": [
+        {
+            "<net.coobird.thumbnailator.resizers.AbstractResizer: void resize(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.34382262391579627
+        }, 
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage,int)>": 0.3356736688458087
+        }, 
+        {
+            "<net.coobird.thumbnailator.filters.Transparency: java.awt.image.BufferedImage apply(java.awt.image.BufferedImage)>": 0.33462883023954537
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage checkCopyBuffered(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.30733097859592756
+        }, 
+        {
+            "<org.dyn4j.samples.SimulationFrame: void render(java.awt.Graphics2D,double)>": 0.2965824488153206
+        }
+    ], 
+    "<org.imgscalr.Scalr: java.awt.image.BufferedImage resize(java.awt.image.BufferedImage,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.gui.feature.VisualizeRegions: java.awt.image.BufferedImage regions(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.4221384406977591
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage access$000(boofcv.gui.DemonstrationBase,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3862987882477794
+        }, 
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage)>": 0.3584499916166959
+        }, 
+        {
+            "<boofcv.gui.stereo.RectifiedPairPanel: void setImages(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3305827717112107
+        }, 
+        {
+            "<boofcv.demonstrations.sfm.d2.Motion2DPanel: void setImages(java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3305827717112107
+        }
+    ], 
+    "<org.imgscalr.Scalr: java.awt.image.BufferedImage createOptimalImage(java.awt.image.BufferedImage,int,int)>": [
+        {
+            "<boofcv.alg.InputSanityCheck: void checkSameShapeB(boofcv.struct.image.ImageMultiBand,boofcv.struct.image.ImageMultiBand)>": 0.4702092082751431
+        }, 
+        {
+            "<boofcv.core.encoding.ConvertYV12: boofcv.struct.image.GrayF32 yu12ToGray(byte[],int,int,boofcv.struct.image.GrayF32)>": 0.46813103697301234
+        }, 
+        {
+            "<boofcv.core.encoding.ConvertNV21: boofcv.struct.image.GrayU8 nv21ToGray(byte[],int,int,boofcv.struct.image.GrayU8)>": 0.46813103697301234
+        }, 
+        {
+            "<boofcv.core.encoding.ConvertYV12: boofcv.struct.image.GrayU8 yu12ToGray(byte[],int,int,boofcv.struct.image.GrayU8)>": 0.46813103697301234
+        }, 
+        {
+            "<boofcv.core.encoding.ConvertNV21: boofcv.struct.image.GrayF32 nv21ToGray(byte[],int,int,boofcv.struct.image.GrayF32)>": 0.46813103697301234
+        }
+    ], 
+    "<org.imgscalr.Scalr$Mode: void <init>(java.lang.String,int)>": [
+        {
+            "<net.smert.jreactphysics3d.configuration.ContactsPositionCorrectionTechnique: void <init>(java.lang.String,int)>": 0.4415584415584415
+        }, 
+        {
+            "<net.smert.jreactphysics3d.constraint.JointType: void <init>(java.lang.String,int)>": 0.4415584415584415
+        }, 
+        {
+            "<net.smert.jreactphysics3d.collision.shapes.CollisionShapeType: void <init>(java.lang.String,int)>": 0.4415584415584415
+        }, 
+        {
+            "<net.smert.jreactphysics3d.configuration.JointsPositionCorrectionTechnique: void <init>(java.lang.String,int)>": 0.4415584415584415
+        }, 
+        {
+            "<Catalano.Statistics.Analysis.PrincipalComponentAnalysis$AnalysisMethod: void <init>(java.lang.String,int)>": 0.4415584415584415
+        }
+    ], 
+    "<org.imgscalr.Scalr: org.imgscalr.Scalr$Method determineScalingMethod(int,int,float)>": [
+        {
+            "<org.jbox2d.common.MathUtils: int max(int,int)>": 0.5927803725828553
+        }, 
+        {
+            "<org.jbox2d.common.MathUtils: int min(int,int)>": 0.5927803725828553
+        }, 
+        {
+            "<org.jbox2d.particle.ParticleSystem: int limitCapacity(int,int)>": 0.5927803725828553
+        }, 
+        {
+            "<net.smert.jreactphysics3d.collision.broadphase.PairManager: net.smert.jreactphysics3d.collision.broadphase.BodyPair findPairWithHashValue(int,int,int)>": 0.4474009335609357
+        }, 
+        {
+            "<Catalano.Imaging.Texture.BinaryPattern.UniformLocalBinaryPattern: boolean isUniform(int)>": 0.442066708900399
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$10: void <init>(java.awt.image.BufferedImage,int,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.alg.misc.PixelMath: void plus_A(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.43075194322318167
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void minus_B(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.43075194322318167
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void minus_A(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.43075194322318167
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void minus_A(byte[],int,int,int,int,int,byte[],int,int,int,int)>": 0.42829949247249477
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void plus_A(byte[],int,int,int,int,int,byte[],int,int,int,int)>": 0.42829949247249477
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$8: java.awt.image.BufferedImage call()>": [
+        {
+            "<boofcv.gui.feature.VisualizeRegions: java.awt.image.BufferedImage regions(boofcv.struct.image.GrayS32,int,java.awt.image.BufferedImage)>": 0.3419791688853266
+        }, 
+        {
+            "<net.coobird.thumbnailator.util.BufferedImages: java.awt.image.BufferedImage copy(java.awt.image.BufferedImage)>": 0.33937625283854533
+        }, 
+        {
+            "<boofcv.gui.DemonstrationBase: java.awt.image.BufferedImage access$000(boofcv.gui.DemonstrationBase,java.awt.image.BufferedImage,java.awt.image.BufferedImage)>": 0.3212788383895507
+        }, 
+        {
+            "<boofcv.io.image.UtilImageIO: java.awt.image.BufferedImage loadPGM(java.lang.String,java.awt.image.BufferedImage)>": 0.2867318984142575
+        }, 
+        {
+            "<boofcv.io.image.UtilImageIO: java.awt.image.BufferedImage loadPPM(java.lang.String,java.awt.image.BufferedImage)>": 0.2867318984142575
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr: java.util.concurrent.Future resize(java.awt.image.BufferedImage,org.imgscalr.Scalr$Method,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.struct.ImageRectangle: void <init>(int,int,int,int)>": 0.2195149990046489
+        }, 
+        {
+            "<boofcv.alg.feature.disparity.DisparityScoreWindowFive: void <init>(int,int,int,int)>": 0.21336840744687463
+        }, 
+        {
+            "<boofcv.alg.feature.disparity.DisparityScoreSadRect: void <init>(int,int,int,int)>": 0.21336840744687463
+        }, 
+        {
+            "<boofcv.struct.image.InterleavedS16: void <init>(int,int,int)>": 0.21121980004183158
+        }, 
+        {
+            "<boofcv.struct.image.InterleavedS8: void <init>(int,int,int)>": 0.21121980004183158
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$3: void <init>(java.awt.image.BufferedImage,int,int,int,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.alg.misc.PixelMath: void plus_A(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.5153742241623548
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void minus_B(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.5153742241623548
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void minus_A(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.5153742241623548
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void minus_A(byte[],int,int,int,int,int,byte[],int,int,int,int)>": 0.5124283422282887
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void plus_A(byte[],int,int,int,int,int,byte[],int,int,int,int)>": 0.5124283422282887
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$7: void <init>(java.awt.image.BufferedImage,org.imgscalr.Scalr$Method,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.demonstrations.calibration.CalibrateStereoPlanarGuiApp$1: void <init>(boofcv.demonstrations.calibration.CalibrateStereoPlanarGuiApp,int,java.awt.image.BufferedImage,java.awt.image.BufferedImage,boofcv.demonstrations.calibration.CalibrateStereoPlanarGuiApp$ProcessThread)>": 0.2614859079536759
+        }, 
+        {
+            "<boofcv.gui.image.ImageGridPanel: java.awt.image.BufferedImage getImage(int,int)>": 0.259109671868798
+        }, 
+        {
+            "<boofcv.gui.image.ImageGridPanel: void setImage(int,int,java.awt.image.BufferedImage)>": 0.259109671868798
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void plus_A(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.2573584565545017
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void minus_B(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.2573584565545017
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr: java.util.concurrent.Future pad(java.awt.image.BufferedImage,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.struct.ImageRectangle: void <init>(int,int,int,int)>": 0.23313074219564042
+        }, 
+        {
+            "<boofcv.alg.feature.disparity.DisparityScoreWindowFive: void <init>(int,int,int,int)>": 0.22663210140489592
+        }, 
+        {
+            "<boofcv.alg.feature.disparity.DisparityScoreSadRect: void <init>(int,int,int,int)>": 0.22663210140489592
+        }, 
+        {
+            "<boofcv.struct.image.InterleavedS16: void <init>(int,int,int)>": 0.22433470604343808
+        }, 
+        {
+            "<boofcv.struct.image.InterleavedS8: void <init>(int,int,int)>": 0.22433470604343808
+        }
+    ], 
+    "<org.imgscalr.Scalr: java.awt.image.BufferedImage pad(java.awt.image.BufferedImage,int,java.awt.Color,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<org.jbox2d.testbed.framework.TestbedModel: void setCurrTestIndex(int)>": 0.29910414749612607
+        }, 
+        {
+            "<boofcv.factory.weights.FactoryWeights: boofcv.alg.weights.WeightPixel_F32 pixel(boofcv.factory.weights.WeightType,boolean)>": 0.2885232464997514
+        }, 
+        {
+            "<boofcv.struct.convolve.KernelBase: void <init>(int,int)>": 0.2848977041913111
+        }, 
+        {
+            "<boofcv.factory.weights.FactoryWeights: boofcv.alg.weights.WeightDistance_F32 distance(boofcv.factory.weights.WeightType,float,boolean)>": 0.2823180411906363
+        }, 
+        {
+            "<boofcv.struct.flow.ImageFlow: boofcv.struct.flow.ImageFlow$D get(int,int)>": 0.2822361998021867
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr: java.util.concurrent.Future resize(java.awt.image.BufferedImage,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.struct.ImageRectangle: void <init>(int,int,int,int)>": 0.23313074219564042
+        }, 
+        {
+            "<boofcv.alg.feature.disparity.DisparityScoreWindowFive: void <init>(int,int,int,int)>": 0.22663210140489592
+        }, 
+        {
+            "<boofcv.alg.feature.disparity.DisparityScoreSadRect: void <init>(int,int,int,int)>": 0.22663210140489592
+        }, 
+        {
+            "<boofcv.struct.image.InterleavedS16: void <init>(int,int,int)>": 0.22433470604343808
+        }, 
+        {
+            "<boofcv.struct.image.InterleavedS8: void <init>(int,int,int)>": 0.22433470604343808
+        }
+    ], 
+    "<org.imgscalr.Scalr: java.awt.image.BufferedImage apply(java.awt.image.BufferedImage,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.alg.shapes.polygon.BinaryPolygonDetector: void findCandidateShapes(boofcv.struct.image.ImageGray,boofcv.struct.image.GrayU8)>": 0.2496991883431569
+        }, 
+        {
+            "<net.imglib2.util.BenchmarkHelper: java.util.ArrayList benchmark(int,java.lang.Runnable)>": 0.24815407561994718
+        }, 
+        {
+            "<boofcv.demonstrations.tracker.VisualizeCirculantTrackerApp: void process(boofcv.io.image.SimpleImageSequence)>": 0.23849593927915638
+        }, 
+        {
+            "<boofcv.struct.image.GrayI: void printBinary()>": 0.23745629153750236
+        }, 
+        {
+            "<boofcv.struct.image.GrayI: void print()>": 0.23745629153750236
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$8: void <init>(java.awt.image.BufferedImage,org.imgscalr.Scalr$Mode,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.demonstrations.calibration.CalibrateStereoPlanarGuiApp$1: void <init>(boofcv.demonstrations.calibration.CalibrateStereoPlanarGuiApp,int,java.awt.image.BufferedImage,java.awt.image.BufferedImage,boofcv.demonstrations.calibration.CalibrateStereoPlanarGuiApp$ProcessThread)>": 0.2614859079536759
+        }, 
+        {
+            "<boofcv.gui.image.ImageGridPanel: java.awt.image.BufferedImage getImage(int,int)>": 0.259109671868798
+        }, 
+        {
+            "<boofcv.gui.image.ImageGridPanel: void setImage(int,int,java.awt.image.BufferedImage)>": 0.259109671868798
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void plus_A(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.2573584565545017
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void minus_B(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.2573584565545017
+        }
+    ], 
+    "<org.imgscalr.AsyncScalr$13: void <init>(java.awt.image.BufferedImage,org.imgscalr.Scalr$Method,org.imgscalr.Scalr$Mode,int,int,java.awt.image.BufferedImageOp[])>": [
+        {
+            "<boofcv.alg.misc.PixelMath: void plus_A(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.37789971670949035
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void minus_B(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.37789971670949035
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void minus_A(int[],int,int,int,int,int,int[],int,int,int,int)>": 0.37789971670949035
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void minus_A(byte[],int,int,int,int,int,byte[],int,int,int,int)>": 0.3757451062782399
+        }, 
+        {
+            "<boofcv.alg.misc.PixelMath: void plus_A(byte[],int,int,int,int,int,byte[],int,int,int,int)>": 0.3757451062782399
+        }
+    ]
+}
