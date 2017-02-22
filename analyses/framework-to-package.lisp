@@ -7,6 +7,6 @@
 (jbox2d "org.jbox2d.collision.shapes" 2d-shape)
 
 
-(catalano "catalano.imaging.filters" image-filtering)
+(catalano "Catalano.Imaging.Filters" Image-filtering)
 (boofcv "boofcv.alg.filter" image-filtering)
 (imagej "ij.plugin.filter" image-filtering)
