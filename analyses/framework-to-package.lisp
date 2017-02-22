@@ -5,3 +5,8 @@
 (react "com.flowpowered.react.collision.shape" 3d-shape)
 (dyn4j "org.dyn4j.geometry" 2d-shape)
 (jbox2d "org.jbox2d.collision.shapes" 2d-shape)
+
+
+(catalano "catalano.imaging.filters" image-filtering)
+(boofcv "boofcv.alg.filter" image-filtering)
+(imagej "ij.plugin.filter" image-filtering)
